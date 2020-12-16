@@ -1,1 +1,1 @@
-Essa foi uma forma alternativa de resolução do exercício 1789 através da leitura de arquivo que achei interessante de ser compartilhada
+Essa foi uma forma alternativa de resolução do exercício 1789 do URI Online Judge - A Corrida das Lesmas - através da leitura de arquivo que achei interessante de ser compartilhada. A primeira linha do arquivo representa a quantidade de lesmas na corrida e a segunda linha a velocidade de cada uma das lesmas participantes.
