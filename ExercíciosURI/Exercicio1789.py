@@ -18,7 +18,7 @@ else:
 			for i in L:
 				if V[i] > V[i + 1]:
 					lesmaRapida = V[i]
-				elif V[i] == V[i + 1]?
+				elif V[i] == V[i + 1]:
 					lesmaRapida = V[i]
 				else:
 					lesmaRapida = V[i + 1]
