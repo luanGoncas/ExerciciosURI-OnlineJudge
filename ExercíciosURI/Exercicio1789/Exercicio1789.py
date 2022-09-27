@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # SOLUÇÃO DO PROBLEMA COM ARQUIVO
 
-arquivo = open("/home/luan/Documentos/ExercíciosURI/Exercicio1789/entrada.txt", "r")
+arquivo = open("../ExercíciosURI/Exercicio1789/entrada.txt", "r")
 
 L = arquivo.readline()
 V = arquivo.readline()
